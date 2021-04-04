@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "Name": "3BHK",
+    "Type": "Unfurnished",
+    "Price": 27000
+  },
+  {
+    "ID": 2,
+    "Name": "Duplex",
+    "Type": "Fully Furnished",
+    "Price": 74000
+  },
+  {
+    "ID": 3,
+    "Name": "3BHK",
+    "Type": "Semi Furnished",
+    "Price": 30000
+  },
+  {
+    "ID": 4,
+    "Name": "1BK",
+    "Type": "Semi Furnished",
+    "Price": 12000
+  },
+  {
+    "ID": 5,
+    "Name": "1BHK",
+    "Type": "Semi Furnished",
+    "Price": 16000
+  },
+  {
+    "ID": 6,
+    "Name": "2BHK",
+    "Type": "Fully Furnished",
+    "Price": 26000
+  },
+  {
+    "ID": 7,
+    "Name": "Duplex",
+    "Type": "House",
+    "Price": 112000
+  }
+]

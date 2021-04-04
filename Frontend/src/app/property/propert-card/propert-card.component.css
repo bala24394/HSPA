@@ -1,3 +1,51 @@
-.propImage{
-height: 200px;
+.img-wrapper{
+  overflow: hidden;
+  position: relative;
+}
+
+.card:hover img{
+  transform: scale(1.2,1.2);
+  opacity: .5;
+  transition-timing-function: ease-out;
+  transition-duration: 500ms;
+  height: 250px;
+}
+
+.card{
+  height: 400px;
+  width: 350px;
+}
+
+.card img{
+  transform: scale(1,1);
+  transition-timing-function: ease-out;
+  transition-duration: 500ms;
+  height: 250px;
+}
+
+.memeber-icons{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom:-30%;
+  margin-left: auto;
+  margin-right: auto;
+  opacity:initial;
+}
+
+.img-wrapper:hover .memeber-icons{
+ bottom: 0;
+ transition-duration: 400ms;
+ transition-timing-function: ease-in-out;
+}
+
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+
 }
