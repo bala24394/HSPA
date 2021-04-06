@@ -1,44 +1,59 @@
 [
   {
     "ID": 1,
+    "SellRent":1,
     "Name": "3BHK",
     "Type": "Unfurnished",
     "Price": 27000
   },
   {
     "ID": 2,
+    "SellRent":1,
     "Name": "Duplex",
     "Type": "Fully Furnished",
-    "Price": 74000
+    "Price": 74000,
+    "Image":"2.png"
   },
   {
     "ID": 3,
+    "SellRent":2,
     "Name": "3BHK",
     "Type": "Semi Furnished",
-    "Price": 30000
+    "Price": 30000,
+    "Image":"3.png"
   },
   {
     "ID": 4,
+    "SellRent":2,
     "Name": "1BK",
     "Type": "Semi Furnished",
     "Price": 12000
+
   },
   {
     "ID": 5,
+    "SellRent":1,
     "Name": "1BHK",
     "Type": "Semi Furnished",
-    "Price": 16000
+    "Price": 16000,
+    "Image":"5.png"
+
   },
   {
     "ID": 6,
+    "SellRent":2,
     "Name": "2BHK",
     "Type": "Fully Furnished",
-    "Price": 26000
+    "Price": 26000,
+    "Image":"6.png"
   },
   {
     "ID": 7,
+    "SellRent":1,
     "Name": "Duplex",
     "Type": "House",
-    "Price": 112000
+    "Price": 112000,
+    "Image":"7.png"
+
   }
 ]
